@@ -46,3 +46,12 @@ h1 {
 .nav-link {
     font-size: 1.2rem;
 }
+
+.download-btn {
+    margin: 5% 3% 5% 0;
+}
+
+.title-image {
+    width: 55%;
+    transform: rotate(10deg);
+}
